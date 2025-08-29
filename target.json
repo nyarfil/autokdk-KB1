@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "nyarfil_01",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "nyarfil_01_vial"
+        }
+    ]
+}
